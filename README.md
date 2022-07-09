@@ -22,9 +22,9 @@ Successful: In the may month theater outcomes shows more successful greater than
 Failed: Most of these outcomes are in between 20 to 50 range.
 
 ### Analysis of Outcomes Based on Goals
-      https://github.com/hariniratnala/kickstarter-analysis/blob/e1b878d13c71ead4e76a245f4af80dfd6a917579/resources/Outcomes_vs_Goals.png
-     
-     This line graph shows the outcomes based on goal.in this line graph x-axis contains the goals and y- axis contains the percentage. Blue line shows the percentage successful , orange line shows percentage failed and gray line show percentage of canceled. Percentage  successful funding more in the range less than 1000 and 35000 to 49999   in and it reached 80% in successful. Percentage successful shows less in the range of 45000 to 49999. Percentage failed shows highest at the range of 45000 to 49999 in goals less in the range of less then 1000 . percentage canceled shows 0% in the whole range of goals.
+      [image](https://user-images.githubusercontent.com/108489186/178122028-ab657f27-9c3e-4e46-b58a-1ca64506aabd.png)
+
+          This line graph shows the outcomes based on goal.in this line graph x-axis contains the goals and y- axis contains the percentage. Blue line shows the percentage successful , orange line shows percentage failed and gray line show percentage of canceled. Percentage  successful funding more in the range less than 1000 and 35000 to 49999   in and it reached 80% in successful. Percentage successful shows less in the range of 45000 to 49999. Percentage failed shows highest at the range of 45000 to 49999 in goals less in the range of less then 1000 . percentage canceled shows 0% in the whole range of goals.
 
 ### Challenges and Difficulties Encountered
 a)	Year from the date- usage of year function from unix date timestamp

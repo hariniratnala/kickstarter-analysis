@@ -15,6 +15,7 @@ performing analysis on kickstarting data to uncover trends
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
     ![Theater_Outcomes_vs_Launch png ](https://user-images.githubusercontent.com/108489186/178121639-1d71cf76-b824-449d-9d95-102c8b9ff487.png)
+    resources/Theater_Outcomes_vs_Launch.png .png
    
 Fund raising is successful as per expectation base on the above chart.
 In this line graph we can show the Theater outcomes based on launch date. In this line graph x axis contains the months and y-axis contains the theater outcomes and it divided into three bases like successful ,failed and canceled .

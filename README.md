@@ -9,6 +9,8 @@ performing analysis on kickstarting data to uncover trends
 •	The Outcomes column tells us if the campaign met its goal.
 •	The Country column lists the country in which the campaign was started.
 
+https://github.com/hariniratnala/kickstarter-analysis/blob/79657008b04b7233903a5ae37e1c9bc8f21db1d5/resources/Theater_Outcomes_vs_Launch.png%20.png
+
 ### Purpose
        The purpose of this analysis report to find the successful outcomes based on the launched date and percentage of the successful outcomes based on the range of amount.
 

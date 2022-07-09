@@ -9,15 +9,12 @@ performing analysis on kickstarting data to uncover trends
 •	The Outcomes column tells us if the campaign met its goal.
 •	The Country column lists the country in which the campaign was started.
 
-https://github.com/hariniratnala/kickstarter-analysis/blob/79657008b04b7233903a5ae37e1c9bc8f21db1d5/resources/Theater_Outcomes_vs_Launch.png%20.png
-
 ### Purpose
        The purpose of this analysis report to find the successful outcomes based on the launched date and percentage of the successful outcomes based on the range of amount.
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-    ![Theater_Outcomes_vs_Launch png ](https://user-images.githubusercontent.com/108489186/178121639-1d71cf76-b824-449d-9d95-102c8b9ff487.png)
-    resources/Theater_Outcomes_vs_Launch.png .png
+  https://github.com/hariniratnala/kickstarter-analysis/blob/79657008b04b7233903a5ae37e1c9bc8f21db1d5/resources/Theater_Outcomes_vs_Launch.png%20.png
    
 Fund raising is successful as per expectation base on the above chart.
 In this line graph we can show the Theater outcomes based on launch date. In this line graph x axis contains the months and y-axis contains the theater outcomes and it divided into three bases like successful ,failed and canceled .
@@ -25,9 +22,9 @@ Successful: In the may month theater outcomes shows more successful greater than
 Failed: Most of these outcomes are in between 20 to 50 range.
 
 ### Analysis of Outcomes Based on Goals
-      ![Theater_Outcomes_vs_Launch png ](https://user-images.githubusercontent.com/108489186/178121416-88eb6ee6-9fad-4f04-b2bc-1653e9ffa1e4.png)
-       Most of the goals are successful and more funds raised as per the above chart.
- This line graph shows the outcomes based on goal.in this line graph x-axis contains the goals and y- axis contains the percentage. Blue line shows the percentage successful , orange line shows percentage failed and gray line show percentage of canceled. Percentage  successful funding more in the range less than 1000 and 35000 to 49999   in and it reached 80% in successful. Percentage successful shows less in the range of 45000 to 49999. Percentage failed shows highest at the range of 45000 to 49999 in goals less in the range of less then 1000 . percentage canceled shows 0% in the whole range of goals.
+      https://github.com/hariniratnala/kickstarter-analysis/blob/e1b878d13c71ead4e76a245f4af80dfd6a917579/resources/Outcomes_vs_Goals.png
+     
+     This line graph shows the outcomes based on goal.in this line graph x-axis contains the goals and y- axis contains the percentage. Blue line shows the percentage successful , orange line shows percentage failed and gray line show percentage of canceled. Percentage  successful funding more in the range less than 1000 and 35000 to 49999   in and it reached 80% in successful. Percentage successful shows less in the range of 45000 to 49999. Percentage failed shows highest at the range of 45000 to 49999 in goals less in the range of less then 1000 . percentage canceled shows 0% in the whole range of goals.
 
 ### Challenges and Difficulties Encountered
 a)	Year from the date- usage of year function from unix date timestamp
